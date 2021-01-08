@@ -1,1 +1,22 @@
-{}
+{
+  "name": "myauthapp",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sametkrt/myauthapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sametkrt/myauthapp/issues"
+  },
+  "homepage": "https://github.com/sametkrt/myauthapp#readme"
+}
